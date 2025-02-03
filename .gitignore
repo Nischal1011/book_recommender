@@ -1,0 +1,5 @@
+.env
+.gradio
+.venv
+.DS_Store
+book_recommender/data

@@ -1,0 +1,16 @@
+pandas
+matplotlib
+seaborn
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+gradio
+python-dotenv
+langchain-text-splitters
+torch
+
+kagglehub
+sigstore==3.5.1
+betterproto==2.0.0b6
+cryptography==42.0.0
