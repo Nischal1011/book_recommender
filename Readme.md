@@ -58,7 +58,7 @@ This project uses multiple advanced tools and libraries to process, analyze, and
   Analyzes the sentiment of book descriptions on a sentence level to aggregate emotion scores for each book.
 
 - **book_recommender/data:**  
-  Contains processed data files such as `books_cleaned.csv`, `books_with_classification.csv`, and `books_with_emotions.csv`.
+  should contain processed data files such as `books_cleaned.csv`, `books_with_classification.csv`, and `books_with_emotions.csv`.
 
 - **requirements.txt:**  
   Lists all required packages and their versions for reproducibility.
