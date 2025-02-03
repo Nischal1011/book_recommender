@@ -2,6 +2,10 @@
 
 A modern book recommendation system that helps you discover your next favorite read based on your search query, preferred category, and mood. The project leverages state-of-the-art natural language processing, vector search, and interactive UI techniques.
 
+
+![image](https://github.com/user-attachments/assets/3a228f38-7d7c-494d-9f7e-7c2eb063a2d7)
+
+
 ## Overview
 
 This project uses multiple advanced tools and libraries to process, analyze, and recommend books. Key components include:
